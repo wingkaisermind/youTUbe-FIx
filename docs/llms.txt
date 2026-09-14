@@ -1,0 +1,20 @@
+# youTUbe-FIx
+
+> Актуальная версия с поддержкой YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+
+youTUbe-FIx снимает искусственное замедление YouTube: ролики и Shorts снова открываются в нормальном качестве, без минутной буферизации.
+
+## Страницы
+- Сайт: https://wingkaisermind.github.io/youTUbe-FIx/
+- Релиз: https://github.com/wingkaisermind/youTUbe-FIx/releases/latest
+- Исходный код: https://github.com/wingkaisermind/youTUbe-FIx
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход замедления YouTube
+- YouTube тормозит что делать
+- YouTube не грузит видео
+- ускорить YouTube без VPN
+- zapret YouTube
+
+Windows 10/11, без VPN, бесплатно.
